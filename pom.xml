@@ -10,6 +10,10 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>common</module>
+        <module>spider</module>
+        <module>ailab</module>
+        <module>web</module>
+        <module>data</module>
     </modules>
 
     <properties>
