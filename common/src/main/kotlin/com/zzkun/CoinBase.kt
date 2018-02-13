@@ -4,9 +4,9 @@ package com.zzkun
 enum class TradeSite(
         chsName: String)
 {
-    HUOBI("»ğ±Ò"),
-    OKEX("OK±ÈÌØ±Ò"),
-    BINANCE("±Ò°²")
+    HUOBI("ç«å¸"),
+    OKEX("OKæ¯”ç‰¹å¸"),
+    BINANCE("å¸å®‰")
 }
 
 /// ====================================
